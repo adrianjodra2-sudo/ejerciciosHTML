@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+<head>
+ <title> Hola mundo!</title>  
+ <meta name="autor" content="Adrian">
+ <meta charset="UTF-8">
+</head>
+
+<body>
+
+<h1>Caracteres especiales</h1>
+
+<p><em>Los siguientes caracteres son caracteres especiales en HTML</em><br><b>Aquí está el resultado de la investigación realizada</b>
+
+
+
+<p>Libra: £ <br>más menos: ± <br>un cuarto: ¼ <br>Euro: €</p>
+
+
+</body>
+
+</html>

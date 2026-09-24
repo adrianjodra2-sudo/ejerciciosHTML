@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+
+
+
+<head>
+
+ <title> Hola mundo!</title>  
+ <meta name="autor" content="Adrian">
+ <meta charset="UTF-8">
+
+</head>
+
+
+<body>
+<p><strong><small>adiós</small></strong></p>    
+<p><small>hola</small></p>
+<p><strong>hola</strong></p>
+
+
+    hola mundo
+ 
+<p> Esta primera línea <br> contiene dos etiquetas </p>
+
+<p> En esta segunda <br>linea también incluimos etiquetas <br> pero son tres <br> <br> Ahora incluimos líneas de separación </p>
+<hr>
+<br>
+<br>
+<hr>
+
+
+
+</body>
+
+
+
+
+
+</html>

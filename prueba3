@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+<head>
+
+ <title> Hola mundo!</title>  
+ <meta name="autor" content="Adrian">
+ <meta charset="UTF-8">
+
+</head>
+
+<body>
+
+
+ <h1>Encabezado de tipo 1</h1>
+
+ <p>un encabezado cualquiera puede ir aquí</p>
+
+ <br> <hr> <br>
+
+<h2>Encabezado tipo 2</h2>
+
+</body>
+
+</html>

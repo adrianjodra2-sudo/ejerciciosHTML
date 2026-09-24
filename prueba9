@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+<head>
+
+ <title> Hola mundo!</title>  
+ <meta name="autor" content="Adrian">
+ <meta charset="UTF-8">
+
+</head>
+
+<body>
+
+<h1>Etiquetas HTML de formato</h1>
+
+<b>Etiqueta de énfasis</b>
+
+ <p> <em>&lt;em:&gt;</em> permite modificar el resto</p>
+
+<b>Etiqueta de marcado</b>
+
+<p><em>&lt;mark:&gt;</em> permite marcar un texto</p>
+
+<b>Etiqueta de encabezado</b>
+
+<p><em>&lt;h1:&gt;</em> permite incluir encabezados en el documento</p>
+
+<b><p>Etiqueta para inidcar importancia en un texto</p></b>
+
+<p><em>&lt;strong:&gt;</em> permite marcar un texto como importante</p>
+
+
+</body>
+
+</html>

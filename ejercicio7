@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+
+
+<head>
+</head>
+
+
+<body>
+    
+<ol type="I">
+    <li>Encabezado</li>
+    <li>Secciones de texto básicas</li>
+    <li>Listas</li>
+<ul type="circle"> <li>Sin orden</li>
+                <ul type="square"><li>El atribute TYPE</li></ul>
+                    <ul type="square"><li>rere</li></ul>
+            
+                </ul> 
+</ol>
+
+
+
+
+
+
+
+             
+
+                                                     
+
+
+                             
+
+                        
+                                                                           
+                                            
+                                      
+                    
+                
+                
+                   
+
+                            
+                    
+            
+
+</body>
+
+
+
+
+</html>

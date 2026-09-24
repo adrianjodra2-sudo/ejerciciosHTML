@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+<head>
+
+ <title> Hola mundo!</title>  
+ <meta name="autor" content="Adrian">
+ <meta charset="UTF-8">
+
+</head>
+
+<body>
+
+<h1>Palabras llamas, agudas y esdrújulas</h1>
+
+<p><b>Palabras agudas</b> El acento recae sobre la última sílaba de la palabra. Por ejemplo. pa<mark>red</mark></p>
+
+<p><b>Palabras llanas</b> El acento recae sobre la penúltima sílaba de la palabra. Por ejemplo. cam<mark>pa</mark>na</p>
+
+<p><b>Palabras esdrújulas</b> El acento recae sobre la antepenúltima sílaba de la palabra. Por ejemplo. C<mark>ámara</mark></p>
+
+
+
+</body>
+
+</html>

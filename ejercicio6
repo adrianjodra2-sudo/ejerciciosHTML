@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html dir="ltr"> 
+
+
+
+<head>
+</head>
+
+
+<body>
+  
+<ul type="circle">
+
+<li>Frutas</li>
+
+<ul type="disc">
+    <li>Plátanos</li>
+    <li>naranjas</li>
+</ul>
+
+<li>Vegetales</li>
+<ul type="disc">
+<li>Maíz</li>
+<li>Guisantes</li>
+</ul>
+
+</ul>
+
+
+
+
+</body>
+
+
+
+
+</html>
